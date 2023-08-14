@@ -35,10 +35,17 @@
     "path": "@PROJECT_PATH@",
     "name": "Site 2023-08-14 13:22",
     "versionFirst": "5.8.14",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Atkinson Hyperlegible', sans-serif",
+        "name": "Atkinson Hyperlegible",
+        "url": "https://fonts.googleapis.com/css?family=Atkinson+Hyperlegible:400,400i,700,700i"
+      }
+    ],
     "imageResize": true,
     "uniqCompNum": 0,
-    "versionPublish": "5.8.14"
+    "versionPublish": "5.8.14",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
